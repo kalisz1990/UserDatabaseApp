@@ -9,6 +9,7 @@ public class DisplayUserActivity extends Activity {
 
     private TextView mDispayUser;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
